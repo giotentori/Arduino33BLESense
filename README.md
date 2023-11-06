@@ -1,2 +1,2 @@
-# Arduino33BLESense
-Development of progect for Arduino 33 BLE Sense
+# ArduinoNano33BLESense
+Development of progect for Arduino Nano 33 BLE Sense
